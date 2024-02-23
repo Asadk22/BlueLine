@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "blue-line",
+    "libraryId": "781cf466-2392-4707-bd9f-c1e54759e725",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "blueLine",
+    "solutionShortDescription": "blueLine description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
